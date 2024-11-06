@@ -1,0 +1,29 @@
+p{
+    color: blue;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+}
+
+hr{
+    border: 3px gold dashed ; 
+}
+
+fieldset, legend{
+    border: 5px outset gold;
+    padding: 5px 10px;
+}
+
+legend{
+    background: blue;
+}
+
+fieldset{
+    background-image: linear-gradient(green, gold);
+}
